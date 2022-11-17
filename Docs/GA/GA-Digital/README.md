@@ -17,7 +17,7 @@ From here there you should be able to see lists of participants, a chat and many
 * Univid Studio
 
 In the left hand menu there should be a big blue button that says "Launch Studio". Click this to enter the studio. Nothing will be visible for other participants until you click "Go Live" in a later step. The left hand menu where the button is looks like this:
-![alt text](https://github.com/[CastorMann]/[Bridgeskolan]/blob/[main]/Docs/GA/GA-Digital/Images/launch_studio.png?raw=true)
+![figure 1](https://github.com/CastorMann/Bridgeskolan/blob/main/Docs/GA/GA-Digital/Images/launch_studio.png?raw=true)
 
 * Share Webcam and Screen
 * Be aware of chat
